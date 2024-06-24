@@ -8,9 +8,9 @@
 
 ## Installation
 
-- Download the script and extract it into the `resources` folder on your FiveM server.
+- Download the script and extract it into the `resources` folder on your server.
 - Add `ensure milosctokurwa-gz` to your `server.cfg` file.
-- Configure the GreenZones in the `config.lua` file.
+- Configure the GreenZones in the `cfg.lua` file.
 
 ## Configuration
 
