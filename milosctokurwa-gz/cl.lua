@@ -43,11 +43,11 @@ QuitGZ = function()
     SetLocalPlayerAsGhost(false)
 end
 
-checkGZ = function()
+CheckGZ = function()
     return checkGZ
 end
 
-exports("checkGZ", checkGZ)
+exports("checkGZ", CheckGZ)
 
 -- MAIN LOOP
 
